@@ -35,7 +35,7 @@ These are the visualisations I produced to from the using the dataset:
 
 ![An image](https://github.com/erifejams/Visualization-Report-on-African-Wars/blob/main/Visualisations/Pie%20chart.jpeg)
 
-![An image]([https://github.com/erifejams/Visualization-Report-on-African-Wars/blob/main/Visualisations/BarChart.jpeg](https://github.com/erifejams/Visualization-Report-on-African-Wars/blob/main/Visualisations/SubEventOnMap.jpeg))
+![An image](https://github.com/erifejams/Visualization-Report-on-African-Wars/blob/main/Visualisations/SubEventOnMap.jpeg)
 
 ![An image](https://github.com/erifejams/Visualization-Report-on-African-Wars/blob/main/Visualisations/BarChart.jpeg)
 
