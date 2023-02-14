@@ -3,9 +3,12 @@ This is a visualisation report done in R of different violence that took place i
 
 <em>More details can be found in the visualisation report.</em>
 
+<br>
+
 # Dataset
 The dataset is about the different violence that took place in different parts of Africa from 2019 – 2022. I got the data from [here](https://acleddata.com/data-export-tool/). The original dataset has 31 columns in total and a total of 19579 data entry for each column. 
 
+<br>
 
 # Steps I took to explore the data
 - I reduced the data so that it only displayed the data from west african countries.
@@ -16,6 +19,7 @@ The dataset is about the different violence that took place in different parts o
 
 By the **end of the data exploaration** there were 200 observations and 15 columns left in the new dataset.
 
+<br>
 
 # Discovery from explored data
 - The history behind violence in countries, is that the citizen ends up suffering the most.
@@ -26,6 +30,7 @@ By the **end of the data exploaration** there were 200 observations and 15 colum
 - The biggest event was violence against the citizens in west Africa and it is mainly caused by military personnel’s, police etc basically people in power.
 - Nigeria has the highest occurrence of these events.
 
+<br>
 
 # Visualisation
 These are the visualisations I produced using R and the the data i explored:
