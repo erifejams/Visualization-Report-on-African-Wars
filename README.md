@@ -20,10 +20,10 @@ These are the visualisations I produced to from the using the dataset:
 
 
 # Discovery from explored data
-•	The history behind violence in countries, is that the citizen ends up suffering the most.
-•	Some countries in west Africa are Mali, Nigeria, Niger, Guinea, Liberia, Senegal, Mauritania, Ghana, Ivory Coast, Sierra Leone, Togo and Cape Verde 
-•	Between the four years (2019 -2022), 2020 was the worst for violence in west Africa (refer to bar chat). I agree with this because the endsars movement took place in 2020 in Nigeria.
-•	The dataset had a total of 19579 rows of data for each column and there were 31 columns.
-•	Most of the column types were character.
-•	The biggest event was violence against the citizens in west Africa and it is mainly caused by military personnel’s, police etc basically people in power.
-•	Nigeria has the highest occurrence of these events.
+- The history behind violence in countries, is that the citizen ends up suffering the most.
+- Some countries in west Africa are Mali, Nigeria, Niger, Guinea, Liberia, Senegal, Mauritania, Ghana, Ivory Coast, Sierra Leone, Togo and Cape Verde 
+- Between the four years (2019 -2022), 2020 was the worst for violence in west Africa (refer to bar chat). I agree with this because the endsars movement took place in 2020 in Nigeria.
+- The dataset had a total of 19579 rows of data for each column and there were 31 columns.
+- Most of the column types were character.
+- The biggest event was violence against the citizens in west Africa and it is mainly caused by military personnel’s, police etc basically people in power.
+- Nigeria has the highest occurrence of these events.
