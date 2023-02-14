@@ -1,7 +1,7 @@
 # Visualization-Report-on-African-Wars
 This is a visualisation report done in R of different violence that took place in west africa. I chose to do this topic because I thought it is important to bring awareness to this issue and focus specifically on Nigeria not only because I am from there, but also because it has the highest rate of violence among the west African countries. I hope this visualization will help to put the spotlight on a different part of the world and bring awareness to somethings that are going on there. 
 
-**More details can be found in the visualisation report.**
+<em>More details can be found in the visualisation report.</em>
 
 # Dataset
 The dataset is about the different violence that took place in different parts of Africa from 2019 – 2022. I got the data from [here](https://acleddata.com/data-export-tool/). The original dataset has 31 columns in total and a total of 19579 data entry for each column. 
