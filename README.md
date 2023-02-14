@@ -14,7 +14,7 @@ The dataset is about the different violence that took place in different parts o
 - I dropped columns that were not needed.
 - I removed duplicate rows.
 
-By the **bold end of the data exploaration** there were 200 observations and 15 columns left in the new dataset.
+By the **end of the data exploaration** there were 200 observations and 15 columns left in the new dataset.
 
 
 # Discovery from explored data
@@ -28,7 +28,7 @@ By the **bold end of the data exploaration** there were 200 observations and 15 
 
 
 # Visualisation
-These are the visualisations I produced to from the using the dataset:
+These are the visualisations I produced using R and the the data i explored:
 
 ![Map of the world](https://github.com/erifejams/Visualization-Report-on-African-Wars/blob/main/Visualisations/MapOfWorld.jpeg)
 
